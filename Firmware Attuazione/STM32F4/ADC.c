@@ -1,5 +1,7 @@
 //CODICE FUNZIONANTE - Ricordarsi di leggere la variabile dove si scrive e non il pin interessato
 
+//Prova GitHub
+
 #include "stm32f4xx_adc.h"
 #include "stm32f4xx_gpio.h"
 #include "stm32f4xx_rcc.h"
